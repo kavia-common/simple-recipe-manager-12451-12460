@@ -1,0 +1,57 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/package.json",
+            "count": 24
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/src/App.js",
+            "count": 9
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/src/App.css",
+            "count": 5
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/src/index.css",
+            "count": 5
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/.env",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/src/App.test.js",
+            "count": 3
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/public/favicon.ico",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/public/logo192.png",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/public/logo512.png",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/public/manifest.json",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/public/robots.txt",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/src/index.js",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-recipe-manager-12451-12460/frontend_app/public/index.html",
+            "count": 1
+        }
+    ],
+    "top_n_last_10_min_accessed": []
+}
